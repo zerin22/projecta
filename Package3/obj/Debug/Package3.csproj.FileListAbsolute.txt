@@ -1,0 +1,5 @@
+E:\Projects\AspNet\ProjectA\Package3\bin\Debug\Package3.dll
+E:\Projects\AspNet\ProjectA\Package3\bin\Debug\Package3.pdb
+E:\Projects\AspNet\ProjectA\Package3\obj\Debug\Package3.csprojResolveAssemblyReference.cache
+E:\Projects\AspNet\ProjectA\Package3\obj\Debug\Package3.dll
+E:\Projects\AspNet\ProjectA\Package3\obj\Debug\Package3.pdb

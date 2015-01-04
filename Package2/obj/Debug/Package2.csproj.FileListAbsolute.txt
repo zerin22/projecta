@@ -1,0 +1,9 @@
+E:\Projects\AspNet\ProjectA\Package2\bin\Debug\Package2.dll
+E:\Projects\AspNet\ProjectA\Package2\bin\Debug\Package2.pdb
+E:\Projects\AspNet\ProjectA\Package2\obj\Debug\Package2.csprojResolveAssemblyReference.cache
+E:\Projects\AspNet\ProjectA\Package2\obj\Debug\Package2.dll
+E:\Projects\AspNet\ProjectA\Package2\obj\Debug\Package2.pdb
+E:\Projects\AspNet\ProjectA\Package2\bin\Debug\Package1.dll
+E:\Projects\AspNet\ProjectA\Package2\bin\Debug\Package1.pdb
+E:\Projects\AspNet\ProjectA\Package2\bin\Debug\Package3.dll
+E:\Projects\AspNet\ProjectA\Package2\bin\Debug\Package3.pdb

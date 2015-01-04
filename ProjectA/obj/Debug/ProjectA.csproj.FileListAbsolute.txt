@@ -1,0 +1,17 @@
+E:\Projects\AspNet\ProjectA\ProjectA\bin\Debug\ProjectA.exe.config
+E:\Projects\AspNet\ProjectA\ProjectA\bin\Debug\ProjectA.exe
+E:\Projects\AspNet\ProjectA\ProjectA\bin\Debug\ProjectA.pdb
+E:\Projects\AspNet\ProjectA\ProjectA\bin\Debug\Ninject.dll
+E:\Projects\AspNet\ProjectA\ProjectA\bin\Debug\Package1.dll
+E:\Projects\AspNet\ProjectA\ProjectA\bin\Debug\Package2.dll
+E:\Projects\AspNet\ProjectA\ProjectA\bin\Debug\Package3.dll
+E:\Projects\AspNet\ProjectA\ProjectA\bin\Debug\Package1.pdb
+E:\Projects\AspNet\ProjectA\ProjectA\bin\Debug\Package2.pdb
+E:\Projects\AspNet\ProjectA\ProjectA\bin\Debug\Package3.pdb
+E:\Projects\AspNet\ProjectA\ProjectA\bin\Debug\Ninject.xml
+E:\Projects\AspNet\ProjectA\ProjectA\obj\Debug\ProjectA.csprojResolveAssemblyReference.cache
+E:\Projects\AspNet\ProjectA\ProjectA\obj\Debug\ProjectA.exe
+E:\Projects\AspNet\ProjectA\ProjectA\obj\Debug\ProjectA.pdb
+C:\Users\jalal\Desktop\projecta\ProjectA\bin\Debug\ProjectA.exe.config
+C:\Users\jalal\Desktop\projecta\ProjectA\obj\Debug\ProjectA.exe
+C:\Users\jalal\Desktop\projecta\ProjectA\obj\Debug\ProjectA.pdb
