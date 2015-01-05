@@ -13,6 +13,9 @@ namespace Package2
         {
             ClassT t = new ClassT(new ClassE());
             t.Method2();
+			
+			//test comment
+			
         }
     }
 }
