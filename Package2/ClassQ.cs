@@ -6,11 +6,16 @@ using System.Threading.Tasks;
 
 namespace Package2
 {
-    public class ClassQ
+    public class ClassQ : IInterfaceQ
     {
+        IInterfaceJ j;
+        public  ClassQ(IInterfaceJ newJ)
+        {
+            j = newJ;
+        }
         public void Method3()
         {
-            ClassJ j = new ClassJ();
+           
             j.Method1();
         }
     }

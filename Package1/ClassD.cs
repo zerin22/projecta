@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace Package1
 {
-    public class ClassD
+    public class ClassD 
     {
-        private ClassA _a;
+        private IInterfaceA _a;
 
-        public ClassD(ClassA a)
+        public ClassD(IInterfaceA a)
         {
             _a = a;
         }

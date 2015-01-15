@@ -8,12 +8,17 @@ namespace Package2
 {
     public class ClassZ
     {
+        IInterfaceJ j;
+        IInterfaceQ q;
+        public ClassZ(IInterfaceJ newJ, IInterfaceQ newQ)
+        {
+            j = newJ;
+            q = newQ;
+        }
         public void Method2()
         {
-            ClassJ j = new ClassJ();
+        
             j.Method1();
-
-            ClassQ q = new ClassQ();
             q.Method3();
         }
     }

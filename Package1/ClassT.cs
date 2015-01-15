@@ -6,19 +6,21 @@ using System.Threading.Tasks;
 
 namespace Package1
 {
-    public class ClassT
+    public class ClassT : IInterfaceT
     {
         private IInterfaceE _ie;
+        private IInterfaceX _x;
 
-        public ClassT(IInterfaceE ie)
+        public ClassT(IInterfaceE ie,IInterfaceX x)
         {
             _ie = ie;
+            _x = x;
         }
 
         public void Method2()
         {
-            ClassX x = new ClassX();
-            x.Method1();
+            
+            _x.Method1();
 
             _ie.Method5();
         }

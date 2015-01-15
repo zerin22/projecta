@@ -8,11 +8,11 @@ namespace Package1
 {
     class ClassF
     {
-        private ClassA _a;
+        private IInterfaceA _a;
 
-        public ClassF()
+        public ClassF(IInterfaceA newA)
         {
-            _a = new ClassA();
+            _a = newA;
         }
 
         public void Method1()

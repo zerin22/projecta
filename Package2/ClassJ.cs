@@ -7,11 +7,17 @@ using System.Threading.Tasks;
 
 namespace Package2
 {
-    public class ClassJ
+    public class ClassJ : IInterfaceJ
     {
+        IInterfaceK k;
+        public ClassJ(IInterfaceK newK)
+        {
+            k = newK;
+
+        }
         public void Method1()
         {
-            ClassK k = new ClassK();
+           
             k.Method1();
         }
     }
